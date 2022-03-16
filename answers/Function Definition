@@ -1,0 +1,4 @@
+A function is a callable piece of code that can take multiple inputs and return a single output. 
+Functions always start w/ the `function` keyword, followed by the function name, following that are function parameters. These are external pieces
+of data that the function will expect when you call it later on. The code that appears between the curly braces is called the function's body, or the block.
+The keyword `return` is used to end the function and give back a single value result.
